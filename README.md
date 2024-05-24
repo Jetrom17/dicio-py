@@ -7,8 +7,8 @@ Ele é basicamente um remake do meu script: dicio-cli, que foi feito usando shel
 ## Instalação
 A instalação desse script pode ser feita por meio dos seguintes comandos:
 
-- git clone "https://github.com/ludovici-philippus/dicio-py"
-- cd dicio-py && sudo mv dicio-py /usr/local/bin
+- git clone https://github.com/ludovici-philippus/dicio-py
+- cd dicio-py && sudo mv dicio-py.py /usr/local/bin
 
 Depois disso basta partir para o uso!
 

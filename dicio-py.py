@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import sys
 import re
 from unicodedata import normalize
@@ -60,7 +62,7 @@ def format_html(html):
 
 if len(sys.argv) < 2:
     print_with_color("ERRO! Você precisa prover uma palavra", 'RED')
-    print("Uso: python ./dicio-py.py [PALAVRA]")
+    print("Uso: python3 ./dicio-py.py [PALAVRA]")
     exit()
 WORD = sys.argv[1].lower()
 try:

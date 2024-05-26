@@ -11,7 +11,7 @@ A instalação desse script pode ser feita por meio dos seguintes comandos:
 
 ### [Linux ou Mac]
 ```bash
-git clone https://github.com/Jetrom17/dicio-py && cd dicio-py && sudo mv dicio-py /usr/local/bin && cd rm -rf dicio-py && sudo chmod +x /usr/local/bin/dicio-py && clear && echo 'Feito!'
+git clone https://github.com/Jetrom17/dicio-py && cd dicio-py && sudo mv dicio-py /usr/local/bin && cd .. && rm -rf dicio-py && sudo chmod +x /usr/local/bin/dicio-py && clear && echo 'Feito!'
 ```
 
 ### [Windows]

@@ -23,7 +23,7 @@ pip install dicio-py
 ```
 
 ![](https://raw.githubusercontent.com/Jetrom17/dicio-py/master/windows.gif)
-
+> Screen de [@Jhonatan-Jeferson](https://github.com/Jhonatan-Jeferson)
 Depois disso basta partir para o uso!
 
 ## Uso

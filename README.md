@@ -14,11 +14,15 @@ A instalação desse script pode ser feita por meio dos seguintes comandos:
 git clone https://github.com/Jetrom17/dicio-py && cd dicio-py && sudo mv dicio-py /usr/local/bin && cd .. && rm -rf dicio-py && sudo chmod +x /usr/local/bin/dicio-py && clear && echo 'Feito!'
 ```
 
+![](https://raw.githubusercontent.com/Jetrom17/dicio-py/master/linux.gif)
+
 ### [Windows]
 
 ```py
 pip install dicio-py
 ```
+
+![](https://raw.githubusercontent.com/Jetrom17/dicio-py/master/windows.gif)
 
 Depois disso basta partir para o uso!
 
